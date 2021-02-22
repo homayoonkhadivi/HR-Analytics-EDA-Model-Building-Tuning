@@ -15,3 +15,14 @@
 * 9 salary
 ### Problem:
 We want to predict if the employee left the company or not. 1 means the employee will left the company
+
+# This Notebook Contains:¶
+* Data Underestanding
+* Data Exploration
+* Data Preparation
+* Data Visualization
+* Feature Engineering
+* Build Machine Learning Models
+* Machine Learning Models With Cross Validation
+* Model Evaluation
+* Hyperprameters Tuning
