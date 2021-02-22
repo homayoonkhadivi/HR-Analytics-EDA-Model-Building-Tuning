@@ -33,6 +33,9 @@ We want to predict if the employee left the company or not. 1 means the employee
 ### The relationship between the amount of salary and left the company:
 ![Salary   Left](https://user-images.githubusercontent.com/57557590/108720923-a6ad6f80-7536-11eb-8ed6-73537f261b8f.PNG)
 ### The correlation matrix between the different features and the target variable
+### Accuracy with Cross Validation Technique:
+![Accuracy with CV](https://user-images.githubusercontent.com/57557590/108730071-69e67600-7540-11eb-8293-97f79afb3160.PNG)
+# Machine Learning Models With Parameter tuning
 ![Correlation](https://user-images.githubusercontent.com/57557590/108721400-33f0c400-7537-11eb-9364-9586ed6813f3.PNG)
 ### Feature Importance
 ![Feature Importance](https://user-images.githubusercontent.com/57557590/108723508-96e35a80-7539-11eb-82d4-16f06d5f4f24.PNG)
