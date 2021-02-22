@@ -14,4 +14,4 @@
 * 8 department
 * 9 salary
 ### Problem:
-We want to predict if the employee left the company or not. 1 means the employee left the company
+We want to predict if the employee left the company or not. 1 means the employee will left the company
