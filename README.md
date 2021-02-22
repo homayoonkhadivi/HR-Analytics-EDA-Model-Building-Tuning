@@ -1,3 +1,4 @@
+![bigstock-Recruitment-Concept-Idea-Of-C-250362193](https://user-images.githubusercontent.com/57557590/108717210-3f8dbc00-7532-11eb-8085-91c52d8d3839.jpg)
 # HR-Analytics-EDA-Model-Building-Tuning
 ### In this notebook, I want to analyze the Human Resource dataset. I will build different models and compare them with their gained accuracy.
 
