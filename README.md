@@ -51,4 +51,4 @@ We want to predict if the employee left the company or not. 1 means the employee
 ### Accuracy Comparision:
 ![Accuracy Comparision](https://user-images.githubusercontent.com/57557590/108746130-29dbbf00-7551-11eb-8b44-7267bef1c983.PNG)
 
-# Conclusion
+# Conclusion Results
