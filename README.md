@@ -38,3 +38,5 @@ We want to predict if the employee left the company or not. 1 means the employee
 ![Feature Importance](https://user-images.githubusercontent.com/57557590/108723508-96e35a80-7539-11eb-82d4-16f06d5f4f24.PNG)
 # Accuracy with all features:
 ![Accuracy with all features](https://user-images.githubusercontent.com/57557590/108726967-47069280-753d-11eb-8a60-8eb476511481.PNG)
+# Accuracy with important features
+![Accuracy with importance features](https://user-images.githubusercontent.com/57557590/108727517-ea57a780-753d-11eb-9f9c-265e670e330f.PNG)
