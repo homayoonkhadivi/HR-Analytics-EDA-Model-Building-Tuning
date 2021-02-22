@@ -17,7 +17,7 @@
 ### Problem:
 We want to predict if the employee left the company or not. 1 means the employee will left the company
 
-# This Notebook Contains:¶
+# This Notebook Contains:
 * Data Underestanding
 * Data Exploration
 * Data Preparation
@@ -27,3 +27,7 @@ We want to predict if the employee left the company or not. 1 means the employee
 * Machine Learning Models With Cross Validation
 * Model Evaluation
 * Hyperprameters Tuning
+
+# Data Visualization
+![Salary](https://user-images.githubusercontent.com/57557590/108720918-a57c4280-7536-11eb-9fd2-1950372d3a23.PNG)
+![Salary   Left](https://user-images.githubusercontent.com/57557590/108720923-a6ad6f80-7536-11eb-8ed6-73537f261b8f.PNG)
