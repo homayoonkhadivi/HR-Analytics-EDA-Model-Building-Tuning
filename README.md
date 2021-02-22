@@ -40,3 +40,4 @@ We want to predict if the employee left the company or not. 1 means the employee
 ![Accuracy with all features](https://user-images.githubusercontent.com/57557590/108726967-47069280-753d-11eb-8a60-8eb476511481.PNG)
 # Accuracy with important features
 ![Accuracy with importance features](https://user-images.githubusercontent.com/57557590/108727517-ea57a780-753d-11eb-9f9c-265e670e330f.PNG)
+# Machine Learning Models With Cross Validation
