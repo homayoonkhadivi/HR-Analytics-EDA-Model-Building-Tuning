@@ -52,3 +52,9 @@ We want to predict if the employee left the company or not. 1 means the employee
 ![Accuracy Comparision](https://user-images.githubusercontent.com/57557590/108746130-29dbbf00-7551-11eb-8b44-7267bef1c983.PNG)
 
 # Conclusion Results
+* Here we can compare the accuracy obtained by different Classification Models with different strategy
+For A quick revision
+* Accuracy with all features means the all features of data were used for prediction of will employee left or not? this accuracy is obtained on the test data which was not used in training.
+* Accuracy with important features means the same as above but here only 5 most important features were used. The importance of features we got by using Random Forest Classifier.
+* Accuracy with CV means the mean of accuracies which were obtained on iteration of one CV. here 10 iterations were used
+* Accuracy with GridSearchCV means the best score obtained after tuning the model. Here for CV only 5 folds were used
