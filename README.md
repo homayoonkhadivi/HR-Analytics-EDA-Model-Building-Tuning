@@ -58,4 +58,4 @@ For A quick revision
 * Accuracy with important features means the same as above but here only 5 most important features were used. The importance of features we got by using Random Forest Classifier.
 * Accuracy with CV means the mean of accuracies which were obtained on iteration of one CV. here 10 iterations were used
 * Accuracy with GridSearchCV means the best score obtained after tuning the model. Here for CV only 5 folds were used
-123456789101123456789112345678912345678912
+1234567891011234567891123456789123456789123
